@@ -1,0 +1,4 @@
+In this problem we had been provided with a files.zip file which is a popular archive or compression method.
+we simply unziped the archive using the unzip command,
+and then used the find command with the -name argument to pass in the file name we were supposed to find 'uber-secret.txt'.
+then we just used cat to print out the contents of that text file and found out that the text was the flag we were after.
