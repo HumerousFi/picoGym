@@ -1,0 +1,5 @@
+This was one of the most basic ctf challanges
+we just downloaded the file using the wget command
+then simply printed out the text on the terminal using the cat command
+and then found the flag
+
